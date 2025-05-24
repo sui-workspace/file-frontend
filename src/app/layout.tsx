@@ -1,4 +1,6 @@
 import React from 'react'
+import GoogleProvider from "next-auth/providers/google"
+
 export default function RootLayout({
     children,
 }: {
