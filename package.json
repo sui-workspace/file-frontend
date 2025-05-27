@@ -2,6 +2,8 @@
   "dependencies": {
     "@material-tailwind/html": "^3.0.0-beta.7",
     "@mysten/sui": "^1.30.0",
+    "@mysten/zklogin": "^0.8.1",
+    "jwt-decode": "^4.0.0",
     "next": "^15.3.2",
     "next-auth": "^4.24.11",
     "postcss-cli": "^11.0.1",

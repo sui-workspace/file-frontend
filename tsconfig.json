@@ -27,8 +27,9 @@
     "next-env.d.ts",
     ".next/types/**/*.ts",
     "**/*.ts",
-    "**/*.tsx"
-, "src/components/MenuItem.tss"  ],
+    "**/*.tsx",
+    "src/components/MenuItem.tss"
+  ],
   "exclude": [
     "node_modules"
   ]

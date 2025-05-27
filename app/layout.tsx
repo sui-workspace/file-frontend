@@ -8,11 +8,7 @@ import { initMaterialTailwind } from '@material-tailwind/html';
 
 initMaterialTailwind();
 
-
-
-
 import { SessionProvider } from "next-auth/react"
-import GoogleProvider from "next-auth/providers/google"
 
 export default function RootLayout({
     children,
